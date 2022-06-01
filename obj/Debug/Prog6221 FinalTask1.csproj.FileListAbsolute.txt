@@ -1,0 +1,8 @@
+C:\Users\Thileshan\source\repos\Prog6221 FinalTask1\bin\Debug\Prog6221 FinalTask1.exe.config
+C:\Users\Thileshan\source\repos\Prog6221 FinalTask1\bin\Debug\Prog6221 FinalTask1.exe
+C:\Users\Thileshan\source\repos\Prog6221 FinalTask1\bin\Debug\Prog6221 FinalTask1.pdb
+C:\Users\Thileshan\source\repos\Prog6221 FinalTask1\obj\Debug\Prog6221 FinalTask1.csproj.AssemblyReference.cache
+C:\Users\Thileshan\source\repos\Prog6221 FinalTask1\obj\Debug\Prog6221 FinalTask1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thileshan\source\repos\Prog6221 FinalTask1\obj\Debug\Prog6221 FinalTask1.csproj.CoreCompileInputs.cache
+C:\Users\Thileshan\source\repos\Prog6221 FinalTask1\obj\Debug\Prog6221 FinalTask1.exe
+C:\Users\Thileshan\source\repos\Prog6221 FinalTask1\obj\Debug\Prog6221 FinalTask1.pdb
