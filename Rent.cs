@@ -14,13 +14,14 @@ namespace PROG_POE_PART_1
 
         override public void availableMoney(double grossInc)
         {
-            Console.WriteLine("\n\n******************************************************************" + "\n\nRenting : \n");
+            Console.WriteLine("\n\n******************************************************************" + "\n\nRenting  \n");
 
             // prompt user for input
             Console.Write("Enter the monthly rental amount : ");
             rentAmnt = Convert.ToDouble(Console.ReadLine());
             double availableMoney = grossInc - (rentAmnt + GetTotalExp());
-            Console.WriteLine("Available monthly money : R" + Math.Round(availableMoney));
+            Console.WriteLine("Available monthly money : R" + Math.Round(availableMoney,2));
+            expense.Add("Rent", rentAmnt);
         }
 
     }

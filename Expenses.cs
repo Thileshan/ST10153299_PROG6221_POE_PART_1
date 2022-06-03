@@ -8,17 +8,20 @@ namespace PROG_POE_PART_1
 {
     abstract class Expenses
     {
-        protected double[] expense = new double[5];
+        protected Dictionary<string, double> expense = new Dictionary<string, double>();
         protected double totExp = 0;
 
-        public void SetExp(double[] userExp)
+        public void SetExp(Dictionary<string, double> e)
         {
-            expense = userExp;
+            expense = e;
         }
 
         public double GetTotalExp()
         {
-            totExp = expense.Sum();
+            foreach (int value in expense.Values)
+            {
+                totExp += value;
+            }
             return totExp;
         }
 
